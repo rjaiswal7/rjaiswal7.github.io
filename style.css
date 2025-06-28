@@ -11,6 +11,9 @@ header {
     background: #00467F;
     background: linear-gradient(61deg, #00467F, #A5CC82);
     color: white;
+    top: 0px;
+    position: sticky;
+    box-shadow: 0px 1px 5px 0px #cac0de;
 }
 
 .sub-head {
