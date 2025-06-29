@@ -116,7 +116,17 @@ tr:hover {
 }
 
 div.table-container {
-    overflow-x: auto;
     border-radius: 8px;
     margin: 20px;
+    overflow-x: auto;
+}
+
+td>a {
+    text-decoration-line: underline !important;
+    color: #3F51B5 !important;
+    font-weight: bold;
+    text-decoration-style: solid !important;
+    text-decoration-thickness: 2px !important;
+    text-decoration-color: #8BC34A !important;
+    
 }
